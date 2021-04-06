@@ -23,6 +23,7 @@ The project involves the following steps:
 
 5. Binary Classification using Logistic Regression and Random Forest Regression:
 <img width="360" alt="Screen Shot 2021-04-06 at 4 39 43 PM" src="https://user-images.githubusercontent.com/69823722/113776082-81944b00-96f7-11eb-8bc4-0db7feaeece4.png">
+
 - 1 means 'Purchase', 0 means'Not Purchase'
 - Split the data to train and text: test the 2015 data, train all previous year
 - Tried to set threshold from $1 to $0.25
