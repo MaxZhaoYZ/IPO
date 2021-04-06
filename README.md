@@ -3,6 +3,16 @@ The project involves the following steps:
 
 1. Understanding the IPO Market
 - Importing the data downloaded from IPOScoop https://www.iposcoop.com/scoop-track-record-from-2000-to-present/
+- 1. Date - Date of the trade
+  2. Issuer - Issuer for the IPO
+  3. Symbol - ID for the Issuer
+  4. Offer Price - The price at which the offer was made to the bank
+  5. Opening Price - The price at which it was opened for the public
+  6. 1st Day Close - The price at which it was opened for the public
+  7. 1st Day % Px Chng - The %age change between the offer price and the 1st day close price
+  8. $ Chg Opening -  The $ change between the offer price and the opening price
+  9. $ Chg Close -   The $ change between the offer price and the 1st day close price
+  10. Lead/Joint-Lead Managers, Star Ratings, Performed - Other information
 
 2. Data Cleaning
 - Convert data into standard format
